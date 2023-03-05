@@ -1,0 +1,14 @@
+{
+    "bracketSpacing": true,
+    "insertPragma": false,
+    "singleAttributePerLine": false,
+    "bracketSameLine": false,
+    "printWidth": 100,
+    "requirePragma": false,
+    "semi": false,
+    "singleQuote": true,
+    "tabWidth": 4,
+    "trailingComma": "es5",
+    "useTabs": false,
+    "parser": "typescript"
+}
